@@ -1,8 +1,9 @@
 ## Hi, I'm Nikshith 🧑‍🎓
 
 🧠 I am a senior Information Technology student at Manipal University<br>
-👨‍💻 Passionate about learning and user-centric creating softwares<br>
+👨‍💻 Passionate about learning and creating user-centric softwares<br>
 ❤️ Fond of Java programming language<br>
+🧑‍🎓 Experienced in Spring boot<br>
 💼 Actively looking for opportunities
 
 
